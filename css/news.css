@@ -13,10 +13,10 @@ body {
   width: 80vw;
 }
 
-.container {
+/* .container {
   margin: 0 auto;
   width: 80vw;
-}
+} */
 nav {
   display: flex;
   justify-content: space-between;
